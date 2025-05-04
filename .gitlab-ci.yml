@@ -1,0 +1,2 @@
+variables:
+  DEPLOY_VARS: SOMETHING
